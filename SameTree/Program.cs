@@ -14,7 +14,7 @@ namespace SameTree
             tree1.right.left.right = new Node(16);
 
             Node tree2 = new Node(10);
-            tree2.left = new Node(13);
+            tree2.left = new Node(12);
             tree2.right = new Node(13);
             tree2.right.left = new Node(15);
             tree2.right.right = new Node(14);
